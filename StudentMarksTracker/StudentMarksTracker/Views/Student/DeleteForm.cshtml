@@ -1,0 +1,33 @@
+﻿@model StudentMarksTracker.Models.Student;
+
+<nav>
+    <a asp-controller="Home" asp-action="Index">Home</a>
+    <a asp-controller="Student" asp-action="Index">Students</a>
+</nav>
+
+<h1>Are you sure you want to delete this?</h1>
+
+    <div>
+        <label>Student ID:</label> @Model.StudentId
+    </div>
+
+    <div>
+        <label>Student Name:</label> @Model.StudentName @Model.StudentSurname
+    </div>
+
+    <div>
+        <label>Student Age:</label> @Model.StudentAge
+    </div>
+
+    <div>
+        <label>Student Email:</label> @Model.StudentEmail
+    </div>
+
+    <form asp-action="DeleteForm" method="post">
+        <input /type="hidden" name="studentId" value="@Model.StudentId">    @* This will send the Id of the student to delete to the database *@
+    <button type="submit" class="btn btn-danger">Yes, Delete Student</button>
+</form>
+
+<a asp-action="Index" style="margin-left: 10px;">
+    <button>Back to List</button>
+</a>

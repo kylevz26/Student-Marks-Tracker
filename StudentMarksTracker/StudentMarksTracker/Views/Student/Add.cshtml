@@ -1,0 +1,40 @@
+﻿@model StudentMarksTracker.Models.Student;
+
+<nav>
+    <a asp-controller="Home" asp-action="Index">Home</a>
+    <a asp-controller="Student" asp-action="Index">Students</a>
+</nav>
+
+<h1>Add Student:</h1>
+
+<form asp-action="Add" method="post">
+     <div>
+        <label>Student Name:</label>
+        <input type="text" id="firstName" asp-for="StudentName"/>
+    </div>
+
+    <div>
+        <label>Student Surname:</label>
+        <input type="text" id="lastName" asp-for="StudentSurname" />
+    </div>
+
+    <div>
+        <label>Student Age:</label>
+        <input type="text" id="age" asp-for="StudentAge" />
+    </div>
+
+    <div>
+        <label>Student Email:</label>
+        <input type="text" id="email" asp-for="StudentEmail" />
+    </div>
+
+    <div>
+        <button type="submit">Add Student</button>
+    </div>
+</form>
+
+@* method for a back button *@
+<form asp-action="Index" method="get">
+    <button type="submit">Back</button>
+</form>
+

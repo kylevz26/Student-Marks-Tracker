@@ -1,0 +1,23 @@
+﻿@model StudentMarksTracker.Models.Marks
+
+<h2>Add Mark</h2>
+
+<form asp-action="Add" method="post">
+
+    <input type="hidden" asp-for="StudentId" />
+
+    <div class="form-group">
+        <label>Subject Name:</label>
+        <input asp-for="Subject" class="form-control" placeholder="e.g. Mathematics" />
+    </div>
+
+    <div class="form-group">
+        <label>Mark Achieved (%):</label>
+        <input asp-for="Mark" type="number" class="form-control" />
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-success">Save Mark</button>
+
+    <a asp-controller="Student" asp-action="Details" asp-route-id="@Model.StudentId" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\student\\deleteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\student\\deleteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\marks\\editform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\marks\\editform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\marks\\deleteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\marks\\deleteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\marks\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\marks\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\student\\updateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\student\\updateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\services\\marksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\services\\marksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\services\\imarksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\services\\imarksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\migrations\\20251210211235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\migrations\\20251210211235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|c:\\microsoft visual studio examples\\mvc (portfolio)\\studentmarkstracker\\studentmarkstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E796080A-3177-4841-92A7-C8C401B5B871}|StudentMarksTracker\\StudentMarksTracker.csproj|solutionrelative:studentmarkstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteForm.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Marks\\DeleteForm.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Marks\\DeleteForm.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Marks\\DeleteForm.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Marks\\DeleteForm.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T21:00:07.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditForm.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Marks\\EditForm.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Marks\\EditForm.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Marks\\EditForm.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Marks\\EditForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T20:59:48.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Marks\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Marks\\Add.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Marks\\Add.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Marks\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T20:50:26.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T20:13:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251210211235_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Migrations\\20251210211235_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Migrations\\20251210211235_InitialCreate.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Migrations\\20251210211235_InitialCreate.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Migrations\\20251210211235_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:12:35.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T20:31:44.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateForm.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\UpdateForm.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Student\\UpdateForm.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\UpdateForm.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Student\\UpdateForm.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:53:42.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteForm.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\DeleteForm.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Student\\DeleteForm.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\DeleteForm.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Student\\DeleteForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:53:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:52:47.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentMarksTracker\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:52:35.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarksController.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Controllers\\MarksController.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Controllers\\MarksController.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Controllers\\MarksController.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Controllers\\MarksController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwDcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:26:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:26:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MarksService.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\MarksService.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Services\\MarksService.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\MarksService.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Services\\MarksService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:19:38.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMarksService.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\IMarksService.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Services\\IMarksService.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\IMarksService.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Services\\IMarksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:19:16.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:17:32.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:08:31.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Program.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Program.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:43:06.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Models\\Student.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Models\\Student.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:15:03.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\appsettings.json",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\appsettings.json",
+              "RelativeToolTip": "StudentMarksTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T18:13:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:36:36.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Marks.cs",
+              "DocumentMoniker": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Models\\Marks.cs",
+              "RelativeDocumentMoniker": "StudentMarksTracker\\Models\\Marks.cs",
+              "ToolTip": "C:\\Microsoft Visual Studio Examples\\MVC (Portfolio)\\StudentMarksTracker\\StudentMarksTracker\\Models\\Marks.cs",
+              "RelativeToolTip": "StudentMarksTracker\\Models\\Marks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:20:06.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

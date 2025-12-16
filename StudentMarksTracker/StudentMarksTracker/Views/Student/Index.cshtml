@@ -1,0 +1,44 @@
+﻿@model IEnumerable<StudentMarksTracker.Models.Student>
+
+<nav>
+    <a asp-controller="Home" asp-action="Index">Home</a>
+    <a asp-controller="Student" asp-action="Index">Students</a>
+</nav>
+
+<h1>List of Students</h1>
+
+<p>
+    <a asp-action="Add" class="btn btn-primary">Create New Student</a>
+</p>
+
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+            <tr>
+                <td>@s.StudentId</td>
+                <td>@s.StudentName</td>
+                <td>@s.StudentSurname</td>
+                <td>@s.StudentAge</td>
+                <td>@s.StudentEmail</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@s.StudentId">Details</a> |
+
+                    <a asp-action="Update" asp-route-id="@s.StudentId">Edit</a> |
+
+                    <a asp-action="Delete" asp-route-id="@s.StudentId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

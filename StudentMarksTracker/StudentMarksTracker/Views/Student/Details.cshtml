@@ -1,0 +1,69 @@
+﻿@model StudentMarksTracker.Models.Student;
+
+<nav>
+    <a asp-controller="Home" asp-action="Index">Home</a>
+    <a asp-controller="Student" asp-action="Index">Students</a>
+</nav>
+
+<h1>Student Details:</h1>
+
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
+    <div>
+        <label><strong>Student ID:</strong></label> @Model.StudentId
+    </div>
+    <div>
+        <label><strong>Student Name:</strong></label> @Model.StudentName @Model.StudentSurname
+    </div>
+    <div>
+        <label><strong>Student Age:</strong></label> @Model.StudentAge
+    </div>
+    <div>
+        <label><strong>Student Email:</strong></label> @Model.StudentEmail
+    </div>
+</div>
+
+<hr />
+
+<h3>Marks & Grades</h3>
+
+@if (Model.Marks == null || Model.Marks.Count == 0)
+{
+    <p><em>No marks found for this student.</em></p>
+}
+else
+{
+    <table border="1" cellpadding="5" style="width: 100%; border-collapse: collapse;">
+        <thead>
+            <tr style="background-color: #f2f2f2;">
+                <th>Subject</th>
+                <th>Mark</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var mark in Model.Marks)
+            {
+                <tr>
+                    <td>@mark.Subject</td>
+                    <td>@mark.Mark %</td>
+                    <td>
+                        <a asp-controller="Marks" asp-action="Edit" asp-route-id="@mark.Id">Edit</a>
+                        <a asp-controller="Marks" asp-action="Delete" asp-route-id="@mark.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<br />
+
+<div>
+    <a asp-controller="Marks" asp-action="Add" asp-route-studentId="@Model.StudentId">
+        <button>+ Add New Mark for @Model.StudentName</button>
+    </a>
+
+    <a asp-action="Index" style="margin-left: 10px;">
+        <button>Back to List</button>
+    </a>
+</div>

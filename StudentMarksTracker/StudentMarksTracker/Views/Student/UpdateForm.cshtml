@@ -1,0 +1,43 @@
+﻿@model StudentMarksTracker.Models.Student;
+
+<nav>
+    <a asp-controller="Home" asp-action="Index">Home</a>
+    <a asp-controller="Student" asp-action="Index">Students</a>
+</nav>
+
+<h1>Edit Student:</h1>
+
+<form asp-action="UpdateForm" method="post">
+    <div>
+        <label>Student ID:</label>
+        <input type="text" asp-for="StudentId" readonly/>
+    </div>
+
+    <div>
+        <label>Update Student Name:</label>
+        <input type="text" asp-for="StudentName" />
+    </div>
+
+    <div>
+        <label>Update Student Surname:</label>
+        <input type="text" asp-for="StudentSurname" />
+    </div>
+
+    <div>
+        <label>Update Student Age:</label>
+        <input type="text" asp-for="StudentAge" />
+    </div>
+
+    <div>
+        <label>Update Student Email:</label>
+        <input type="text" asp-for="StudentEmail" />
+    </div>
+
+    <div>
+        <button type="submit">Save Changes</button>
+    </div>
+</form>
+
+<a asp-action="Index" style="margin-left: 10px;">
+    <button>Back to List</button>
+</a>
