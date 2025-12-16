@@ -38,21 +38,31 @@ The project allows administrators to:
 ![alt text](image.png)
 
 ### Student Home Page
+![alt text](image-1.png)
 
 ### Add Student
+![alt text](image-2.png)
 
 ### Edit Student
+![alt text](image-3.png)
 
 ### Delete Student
+![alt text](image-4.png)
 
 ### Student Details Page
+![alt text](image-5.png)
 
 ### Add Mark
+![alt text](image-6.png)
 
 ### Edit Mark
+![alt text](image-7.png)
 
 ### Delete Mark
+![alt text](image-8.png)
 
 ### Database (Student Table)
+![alt text](image-9.png)
 
 ### Database (Marks Table)
+![alt text](image-10.png)
